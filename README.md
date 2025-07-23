@@ -7,7 +7,7 @@ const client_id = 'sub-XXXXXXXXX/YYY';
 const client_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
 ```
 
-Then you can run the script with the folloowing command:
+Then you can run the example scripts like this:
 ```javascript
 node ./retrieve_devices.js
 ```
