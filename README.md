@@ -9,5 +9,5 @@ const client_secret = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
 
 Then you can run the example scripts like this:
 ```javascript
-node ./retrieve_devices.js
+node ./retrieve_dev_gw.js
 ```
